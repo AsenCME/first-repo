@@ -1,10 +1,12 @@
 HI GYUS!
 IT'S ME!
 
-But it's me from the future! >-via Bash<-
+But it's me from the future! >-- via Bash --<
 ----Bash stuffs
 
-But it's me from the future! >-via GitGUI-<
+But it's me from the future! >-- via GitGUI --<
 But Imma add sth!
 
 But you gotta swear from time to time, amirite?!
+
+Small tweaks!
